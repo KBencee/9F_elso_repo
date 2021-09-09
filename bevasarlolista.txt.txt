@@ -1,0 +1,6 @@
+__BEVÁSÁRLÓLISTA__
+- tej
+- kenyér
+- sajt
+- tejföl
+- kismacska
